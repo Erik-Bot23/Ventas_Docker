@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+
+docker-compose.override.yml
+docker-compose.override.yaml
+
+*.log
+*.swp
+*~
+
+.idea/
+.vscode/
+*.iml
+
+.DS_Store
+Thumbs.db
